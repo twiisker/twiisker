@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @twiisker
+- 👀 I’m interested in Python, SQL, Java
+- 🌱 I’m currently learning B.Sc. Data Science
